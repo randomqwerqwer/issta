@@ -542,38 +542,6 @@
           }
         }
       },
-      "/fetch": {
-        "get": {
-          "tags": [
-            "fetch-controller"
-          ],
-          "summary": "fetch",
-          "operationId": "fetchUsingGET",
-          "consumes": [
-            "application/json"
-          ],
-          "produces": [
-            "application/json;charset=utf-8"
-          ],
-          "responses": {
-            "200": {
-              "description": "OK",
-              "schema": {
-                "type": "string"
-              }
-            },
-            "401": {
-              "description": "Unauthorized"
-            },
-            "403": {
-              "description": "Forbidden"
-            },
-            "404": {
-              "description": "Not Found"
-            }
-          }
-        }
-      },
       "/health": {
         "get": {
           "tags": [
