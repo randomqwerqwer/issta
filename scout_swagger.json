@@ -11,7 +11,7 @@
   "schemes": [
     "http"
   ],
-  "host": "localhost:8079",
+  "host": "localhost:50107",
   "basePath": "/api",
   "tags": [
     {

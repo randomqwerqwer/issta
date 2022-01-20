@@ -9,7 +9,7 @@
             "url": "https://github.com/genome-nexus/genome-nexus/blob/master/LICENSE"
         }
     },
-    "host": "localhost:8080",
+    "host": "localhost:50110",
     "basePath": "/",
     "tags": [
         {

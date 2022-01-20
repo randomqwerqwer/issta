@@ -8,7 +8,7 @@
   "schemes": [
     "http"
   ],
-  "host": "localhost:8079",
+  "host": "localhost:50102",
   "basePath": "/",
   "tags": [
     {
